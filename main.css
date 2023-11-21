@@ -145,7 +145,10 @@ input, select, textarea {
 		font-weight: 100;
 		line-height: 1.75em;
 	}
-
+.copy{
+	color: #333;
+	font-size: 1px;
+}
 	a {
 		-moz-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
