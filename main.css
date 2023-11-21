@@ -147,7 +147,7 @@ input, select, textarea {
 	}
 .copy{
 	color: #333;
-	font-size: 0.1px;
+	overflow: hidden;
 }
 	a {
 		-moz-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
